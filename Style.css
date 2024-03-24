@@ -187,10 +187,10 @@ nav ul li a:focus {
 
 
 .banner-bg {
-    height: 60rem;
+    height: 57rem;
     max-width: 100%;
     /* Adjust margin as needed */
-    margin-left: 19%; /* Adjusted margin-left */
+    margin-left: 22%; /* Adjusted margin-left */
 }
 
 .mobailbg-img{
@@ -1164,8 +1164,8 @@ ul, li {
         left: 0;
         width: 100%;
         height: 100%;
-        background: linear-gradient(to bottom, #fa39ad 40%, #fe6c4c 50%);
-        filter: blur(150px); 
+        background: linear-gradient(to bottom, #0dbdee 40%, #0794d6 50%);
+        filter: blur(220px); 
         z-index: -1; 
     }
 

@@ -187,7 +187,9 @@ nav ul li a:focus {
 
 
 .banner-bg {
-    height: 57rem;
+    position: absolute;
+    height: 48rem;
+    width: 90rem;
     max-width: 100%;
     /* Adjust margin as needed */
     margin-left: 22%; /* Adjusted margin-left */
@@ -1164,8 +1166,8 @@ ul, li {
         left: 0;
         width: 100%;
         height: 100%;
-        background: linear-gradient(to bottom, #0dbdee 40%, #0794d6 50%);
-        filter: blur(220px); 
+        /* background: linear-gradient(to bottom, #0dbdee 40%, #0794d6 50%);
+        filter: blur(220px);  */
         z-index: -1; 
     }
 
